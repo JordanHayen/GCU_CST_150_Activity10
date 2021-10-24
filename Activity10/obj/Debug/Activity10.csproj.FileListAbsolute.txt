@@ -1,0 +1,7 @@
+C:\Users\jorda\Desktop\CST-150\Activity10\Activity10\bin\Debug\Activity10.exe.config
+C:\Users\jorda\Desktop\CST-150\Activity10\Activity10\bin\Debug\Activity10.exe
+C:\Users\jorda\Desktop\CST-150\Activity10\Activity10\bin\Debug\Activity10.pdb
+C:\Users\jorda\Desktop\CST-150\Activity10\Activity10\obj\Debug\Activity10.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Desktop\CST-150\Activity10\Activity10\obj\Debug\Activity10.exe
+C:\Users\jorda\Desktop\CST-150\Activity10\Activity10\obj\Debug\Activity10.pdb
+C:\Users\jorda\Desktop\CST-150\Activity10\Activity10\obj\Debug\Activity10.csprojAssemblyReference.cache
